@@ -1,5 +1,8 @@
 # transfere_arquivos
 Codigo em go para monitorar e garantir transferencia de arquivos entre 2 diretorios, exemplo de aplicação quando se tem algum programa que gera bilhetagem que se tem que mandar para outra pasta esse script serve para isso.
+
+![image](https://github.com/user-attachments/assets/537074cc-9198-4845-be25-78b63f291c0d)
+
 Documentação do TransferFile/main.go
 Visão Geral
 Este programa monitora um diretório específico em busca de arquivos com extensão .RET e os transfere automaticamente para um diretório de destino.
