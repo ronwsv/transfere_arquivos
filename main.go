@@ -11,8 +11,8 @@ import (
 )
 
 const (
-	origemPath  = `\\192.168.0.4\Departamentos\integracao\Bancos\STCPCLT_SCOPUS\O0055SCOPUS\ENTRADA`
-	destinoPath = `\\192.168.0.114\bancos\BRADESCO\RETORNO`
+	origemPath  = `\\192.168.10.01\exemplo\exemplo\teste\`
+	destinoPath = `\\192.168.10.02\bancos\exemplo\RETORNO`
 )
 
 func main() {
